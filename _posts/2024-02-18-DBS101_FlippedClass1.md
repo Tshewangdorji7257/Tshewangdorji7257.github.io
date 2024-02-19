@@ -26,12 +26,11 @@ Roles and Responsibilities of database administrators:
 *Keeping data safe
 *Making data easy
 
+----
 This are the thing i came to know and learned during the flipped class session.
-----
+During the flipped class, we were divided into groups and given specific topics to discuss. Within our groups, we shared our knowledge on the assigned topics within a given period of time. Following this, we were then split into different groups with different members and repeated the process.
 
-During the flipped class what i did was we were divided into groups and given the topics which i mention above so, we discuss the topic and shared among us what we know in a given periods of time.In the same way after that again we are splitted into different groups with different members and did the same thing.
 ----
-
-During the filpped class session i think there should more activities rather than just dicussing and sharing eachother. I mean like effective note taking, using additional resousres and active participation.
+During the filpped class session, i beleive there should be more activities rather than just dicussing and sharing with eachother. I mean activities such as effective note-taking, using additional resousres, and active participation.
 Rating:3
 
