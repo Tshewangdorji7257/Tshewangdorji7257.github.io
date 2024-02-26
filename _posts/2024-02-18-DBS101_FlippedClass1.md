@@ -26,8 +26,9 @@ Roles and Responsibilities of database administrators:
 *Keeping data safe
 *Making data easy
 
-----
 This are the thing i came to know and learned during the flipped class session.
+----
+
 During the flipped class, we were divided into groups and given specific topics to discuss. Within our groups, we shared our knowledge on the assigned topics within a given period of time. Following this, we were then split into different groups with different members and repeated the process.
 
 ----
