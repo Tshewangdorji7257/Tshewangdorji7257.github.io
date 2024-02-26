@@ -10,6 +10,17 @@ tages: [DBS101]
 Objective:
 The objective of this session is to document the proceedings of a group session focused on Entity Relationship Modeling (ERM), where we were divided into groups to draw Entity Relationship Diagrams (ERDs) for real-world systems.
 
+What i learned:
+1. Understanding of Entity Relationship Modeling:
+   - Through active participation in group discussions and hands-on diagram drawing, we gained a comprehensive understanding of ERM principles and techniques.
+   - Practical application of ERM concepts to real-world systems facilitated deeper learning and retention.
+
+2. Drawing an Entity Relationship Diagram for a Real-World System:
+   - By working collaboratively in groups, we successfully created ERDs for the assigned systems, demonstrating proficiency in identifying entities, attributes, and relationships.
+   - Presentations to the class showcased the clarity and coherence of the ERDs developed, validating the effectiveness of group collaboration in diagram creation.
+----
+
+what i did:
 Session Overview:
 The session commenced with the facilitator outlining the agenda, emphasizing the importance of understanding ERM and its practical application in system design. Following this, we were divided into six groups, each consisting of four members, designated as G1 to G6. Each group was assigned a specific real-world system for which they were tasked to draw an ERD. The assigned systems were as follows:
 
@@ -31,15 +42,11 @@ Activities:
    - Presentations included an overview of the assigned system, a detailed explanation of the ERD components, and insights into the decision-making process during diagram development.
    - Classmates were encouraged to ask questions and provide feedback to enhance understanding and promote collaborative learning.
 
-What we learned:
-1. Understanding of Entity Relationship Modeling:
-   - Through active participation in group discussions and hands-on diagram drawing, we gained a comprehensive understanding of ERM principles and techniques.
-   - Practical application of ERM concepts to real-world systems facilitated deeper learning and retention.
-
-2. Drawing an Entity Relationship Diagram for a Real-World System:
-   - By working collaboratively in groups, we successfully created ERDs for the assigned systems, demonstrating proficiency in identifying entities, attributes, and relationships.
-   - Presentations to the class showcased the clarity and coherence of the ERDs developed, validating the effectiveness of group collaboration in diagram creation.
-
 Conclusion:
 The Entity Relationship Modeling group session was a valuable learning experience for me, as it provided them with practical skills in system analysis and design. It also improved my comprehension of ERM concepts and ability to apply them to real-world circumstances through collaborative efforts. The successful completion of ERDs for various systems demonstrated the effectiveness of group-based learning in promoting comprehensive understanding and skill acquisition.
+----
+
+I believe this session went very well, with all the students engaged and actively participating. Furthermore, this time, students were asked to give feedback on the work they did, and I suggest that this approach should be carried on in future sessions.
+
+
 
