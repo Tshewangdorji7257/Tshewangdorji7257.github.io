@@ -20,6 +20,7 @@ What i learned and understood about network:
    - Components include routers, switches, hubs, cables, and protocols like TCP/IP.
    - The primary purpose is to facilitate communication and resource sharing.
    (![alt text](img1.png))
+
 2. Types of Networks:
  
 (![alt text](img2.png))
@@ -43,7 +44,7 @@ What i learned and understood about network:
    - FTP: Facilitates file transfers between clients and servers.
    - DNS: Translates domain names into IP addresses.
 
-conclusion
+conclusion:
 - Understanding networking fundamentals is crucial for navigating the interconnected world of technology.
 - Concepts such as IP addressing, routing, and protocols form the backbone of modern communication systems.
 - Networking knowledge empowers individuals to troubleshoot connectivity issues, optimize network performance, and implement security measures.
