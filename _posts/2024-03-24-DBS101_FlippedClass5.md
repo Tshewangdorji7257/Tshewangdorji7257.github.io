@@ -4,7 +4,7 @@ categories: [DBS101, Flipped_Class4]
 tages: [DBS101]
 ---
 
-### Topic : 
+### Topic : NORMAL FORMS
 ----
 
 what i learned:
