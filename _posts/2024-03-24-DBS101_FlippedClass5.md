@@ -25,7 +25,6 @@ Type of normal form:
 3.BCNF
 4.fourth normal form
 
-
 1.First Normal Form (1NF):
 The First Normal Form (1NF), which stipulates that a table should possess certain attributes to qualify as normalized. These attributes include:
 
