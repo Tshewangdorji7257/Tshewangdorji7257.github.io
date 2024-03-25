@@ -16,6 +16,7 @@ what i learned:
 
 ![alt text](../image2.png)
 
+
 Advantages:
 Flexible schema allows for easy data modeling and storage of complex structures.
 Suitable for handling unstructured or semi-structured data.
