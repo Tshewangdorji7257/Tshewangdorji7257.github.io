@@ -9,12 +9,12 @@ tages: [DBS101]
 
 This session delve into the various types of nonrelational databases, which include document-based, key-value, graph, vector, time-series, and column-oriented databases. The emphasis is on recognizing the benefits, drawbacks, and applications of each form of nonrelational database.
 
-![alt text](image5.png)
+![alt text](../image5.png)
  
 what i learned:
 1.Document-based Databases: store data in flexible, semi-structured documents, typically in formats like JSON or BSON. Each document can have its own unique structure, allowing for easy storage of varying data types and complex hierarchical relationships.
 
-![alt text](image2.png)
+![alt text](../image2.png)
 
 Advantages:
 Flexible schema allows for easy data modeling and storage of complex structures.
@@ -32,7 +32,7 @@ Real-time analytics
 
 2.Key-Value based Databases: store data as a collection of key-value pairs, where each key is unique and maps to a corresponding value.
 
-![alt text](image1.png)
+![alt text](../image1.png)
 
 Advantages:
 Simple data model allows for fast read and write operations.
@@ -50,7 +50,7 @@ Distributed systems
 
 3.Graph Databases: designed to represent and store data in terms of nodes, edges, and properties, making them ideal for modeling complex relationships between entities. 
 
-![alt text](image3.png)
+![alt text](../image3.png)
 
 Advantages:
 Allows for efficient representation and querying of complex relationships.
@@ -68,7 +68,7 @@ Fraud detection
 
 4.Vector Databases:specialized databases optimized for storing and querying high-dimensional vector data. 
 
-![alt text](image6.png)
+![alt text](../image6.png)
 
 Advantages:
 Optimized for handling high-dimensional datasets.
@@ -102,7 +102,7 @@ Monitoring and alerting systems
 
 6.Column-oriented Databases: store data in columns rather than rows, making them well-suited for analytical queries and data warehousing applications.
 
-![alt text](image4.png)
+![alt text](../image4.png)
 
 Advantages:
 Optimized for analytical queries and aggregations.
