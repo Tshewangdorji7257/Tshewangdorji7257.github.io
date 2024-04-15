@@ -6,7 +6,6 @@ tages: [DBS101]
 
 ### Topic : Storage and Buffer Management & Building a Relational Database from Scratch
 ----
-
 Guided session:
 For this, I dived into the complex realm of storage and buffer management, simulating disk blocks, RAID settings, and buffer pools using Python implementations.
 
