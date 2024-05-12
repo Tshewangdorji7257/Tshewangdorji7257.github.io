@@ -10,7 +10,7 @@ What i learned:
 Objective of the Session on Indexing is to foster a comprehensive understanding of key indexing concepts among participants. Specifically, the session aims to delve into the intricacies of buffer trees, indexing of spatial and temporal data, and bitmap indices, which are fundamental components in the realm of database management systems and information retrieval.
 
 1.Indexing of Spatial and Temporal Data: 
-![alt text](<Screenshot 2024-05-12 064729.png>)
+![alt text](<../Screenshot 2024-05-12 064729.png>)
 Understanding how to index spatial and temporal data is vital in various applications such as geographic information systems, environmental monitoring, and historical data analysis. During the session, we delve into techniques for indexing spatial and temporal data, including R-trees, quad-trees, and time-based indexing methods. By examining real-world examples and case studies, participants will gain insights into the challenges and strategies involved in effectively indexing diverse types of spatial and temporal data.
 
 Applications:
@@ -26,7 +26,7 @@ Time-based Indexing Methods: Organize temporal data for analyzing trends and eve
 By using these techniques, organizations can better understand and analyze spatial and temporal data for various purposes like planning, research, and monitoring.
 
 2.Bitmap Indices: 
-![alt text](<Screenshot 2024-05-12 061114.png>)
+![alt text](<../Screenshot 2024-05-12 061114.png>)
 Bitmap indices offer a powerful mechanism for accelerating query processing in data warehouses and decision support systems. Participants will explore the principles behind bitmap indexing, including bitmap creation, compression techniques, and query optimization strategies. Through hands-on exercises and discussions, participants will learn how bitmap indices facilitate fast and efficient data retrieval by exploiting bit-level parallelism and reducing I/O overhead.
 
 How bitmap indexing is done:
@@ -35,14 +35,14 @@ Bit: A bit is a fundamental unit of data used in computing that has just two pos
 These bits are utilized to represent the unique values in such low cardinality columns in bitmap indexing. Bitmap indices are a way of organizing low cardinality rows into bits for storage. 
 The Employee example:
 
-![alt text](<Screenshot 2024-05-12 061643.png>)
+![alt text](<../Screenshot 2024-05-12 061643.png>)
 Bitmap indexing condenses unique values in a low-cardinality column into binary vectors. In the example, if "New_Emp" appears in rows 1 and 4, its bitmap index for "Yes" will be 1001, indicating presence. This compact representation speeds up query processing.
 
-![alt text](<Screenshot 2024-05-12 061848.png>)
+![alt text](<../Screenshot 2024-05-12 061848.png>)
 Two bitmap indices exist: one for "New_Emp" with "Yes" and another for "New_Emp" with "No." Each bit in these indices denotes whether a row represents a new employee or not.
 
 The most basic type of bitmap indexing is seen in the preceding situation. There will be more distinct values in most columns. For instance, as was previously explained, the column Job here will only have 4 unique values. This data can also be efficiently indexed using variations on the bitmap index. The bitmap indexing for the Job column is displayed as follows: 
-![alt text](<Screenshot 2024-05-12 062100.png>)
+![alt text](<../Screenshot 2024-05-12 062100.png>)
 This how its done for bitmap indexing.
 
 Advantages of Bitmap Indexing:
@@ -65,7 +65,7 @@ Data warehousing applications
 Buffer trees play a crucial role in optimizing database performance by efficiently managing memory buffers. Participants will explore the underlying principles of buffer tree structures, including their construction, maintenance, and utilization in minimizing disk accesses. We grasp how buffer trees enhance data retrieval efficiency and contribute to overall system performance.
 
 Construction:
-![alt text](<Screenshot 2024-05-12 063034.png>)
+![alt text](<../Screenshot 2024-05-12 063034.png>)
 Node Structure: A Buffer Tree comprises nodes, each representing a block of data. These nodes typically contain pointers to child nodes and data stored in the block.
 
 Parent-Child Relationship: Nodes are organized hierarchically, forming a tree structure. Each node, except the root, has a parent node, and may have child nodes.
