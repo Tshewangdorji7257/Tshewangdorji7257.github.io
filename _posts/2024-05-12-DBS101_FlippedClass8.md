@@ -26,7 +26,9 @@ Time-based Indexing Methods: Organize temporal data for analyzing trends and eve
 By using these techniques, organizations can better understand and analyze spatial and temporal data for various purposes like planning, research, and monitoring.
 
 2.Bitmap Indices: 
+
 ![alt text](<../Screenshot 2024-05-12 061114.png>)
+
 Bitmap indices offer a powerful mechanism for accelerating query processing in data warehouses and decision support systems. Participants will explore the principles behind bitmap indexing, including bitmap creation, compression techniques, and query optimization strategies. Through hands-on exercises and discussions, participants will learn how bitmap indices facilitate fast and efficient data retrieval by exploiting bit-level parallelism and reducing I/O overhead.
 
 How bitmap indexing is done:
@@ -36,13 +38,17 @@ These bits are utilized to represent the unique values in such low cardinality c
 The Employee example:
 
 ![alt text](<../Screenshot 2024-05-12 061643.png>)
+
 Bitmap indexing condenses unique values in a low-cardinality column into binary vectors. In the example, if "New_Emp" appears in rows 1 and 4, its bitmap index for "Yes" will be 1001, indicating presence. This compact representation speeds up query processing.
 
 ![alt text](<../Screenshot 2024-05-12 061848.png>)
+
 Two bitmap indices exist: one for "New_Emp" with "Yes" and another for "New_Emp" with "No." Each bit in these indices denotes whether a row represents a new employee or not.
 
 The most basic type of bitmap indexing is seen in the preceding situation. There will be more distinct values in most columns. For instance, as was previously explained, the column Job here will only have 4 unique values. This data can also be efficiently indexed using variations on the bitmap index. The bitmap indexing for the Job column is displayed as follows: 
+
 ![alt text](<../Screenshot 2024-05-12 062100.png>)
+
 This how its done for bitmap indexing.
 
 Advantages of Bitmap Indexing:
